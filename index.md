@@ -37,3 +37,8 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 | 8:00 - 8:30  | Bayesian Networks in a Nutshel |        |        |
 |              |                                |        |        |
 |              |                                |        |        |
+
+
+# Resources
+
+# References
