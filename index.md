@@ -9,7 +9,7 @@ The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](h
 
 **Requirements:** Basic statistics and basic knowledge of R. No prior knowledge about graph theory or Bayesian statistics is needed. Please follow the getting started [checklist](getting_started.md)
 
-**Contact:** Arianna Comin & Gilles Kratzer
+**Instructors:** Arianna Comin & Gilles Kratzer
 
 Analysing animal health data is challenging, as the health status of individuals or groups of
 animals might depend on many inter-related variables. Such complexity can be
@@ -30,6 +30,10 @@ networks
 2. To learn how to set up and interpret an additive Bayesian network model for
 multivariate analysis of animal health data using the R package [abn](https://cran.r-project.org/package=abn)
 
-# Worshop preparation
+# Schedule
 
-Here is the getting started 
+| Time         | Topic                          | Slides | R code |
+|--------------|--------------------------------|--------|--------|
+| 8:00 - 8:30  | Bayesian Networks in a Nutshel |        |        |
+|              |                                |        |        |
+|              |                                |        |        |
