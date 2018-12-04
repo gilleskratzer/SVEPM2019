@@ -4,8 +4,11 @@ The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](h
 ## General information
 
 **When:** March the 29th 2019
-**Where:** 
-**Requirements:** Basic statistics and basic knowledge of R. No prior knowledge about graph theory or Bayesian statistics is needed. Please follow the [getting started checklist](getting_started.md)
+
+**Where:** Utrech the Netherland
+
+**Requirements:** Basic statistics and basic knowledge of R. No prior knowledge about graph theory or Bayesian statistics is needed. Please follow the getting started [checklist](getting_started.md)
+
 **Contact:** Arianna Comin & Gilles Kratzer
 
 Analysing animal health data is challenging, as the health status of individuals or groups of

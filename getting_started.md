@@ -1,3 +1,4 @@
+
 # Getting started
 
 In order to best profit from the workshop please follow the instruction below. R is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we recommend to use RStudio.
