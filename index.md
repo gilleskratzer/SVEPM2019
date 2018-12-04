@@ -1,5 +1,5 @@
 
-The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](https://cran.r-project.org/package=abn) is part of the Conference and annual general meeting (AGM) of the Society for Veterinary Epidemiology and Preventive Medicine ( [SVEPM2019](http://svepm2019.org) ) from March 27-29th, 2019 in Utrecht (Netherlands).
+The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](https://cran.r-project.org/package=abn) is part of the Conference and annual general meeting (AGM) of the Society for Veterinary Epidemiology and Preventive Medicine ([SVEPM2019](http://svepm2019.org)) from March 27-29th, 2019 in Utrecht (Netherlands).
 
 ## General description 
 
@@ -22,3 +22,26 @@ networks
 2. To learn how to set up and interpret an additive Bayesian network model for
 multivariate analysis of animal health data using the R package [abn](https://cran.r-project.org/package=abn)
 
+# Getting started
+
+1. Install [R](https://www.r-project.org/)
+2. Install [RStudio](https://www.rstudio.com/) (not mandatory but strongly recommended)
+3. Install abn:
+
+```
+install.packages("abn")
+```
+
+4. Install [INLA](http://www.r-inla.org/)
+
+```
+install.packages("INLA", repos=c(getOption("repos"), INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
+```
+
+5. Install Rgraphviz
+
+```
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("Rgraphviz", version = "3.8")
+```
