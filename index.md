@@ -5,7 +5,7 @@ The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](h
 
 **When:** March the 29th 2019
 
-**Where:** Utrech the Netherland
+**Where:** Utrecht the Netherlands
 
 **Requirements:** Personal laptop. Basic statistics and basic knowledge of R. No prior knowledge about graph theory or Bayesian statistics is needed. Please follow the getting started [checklist](getting_started.md)
 
@@ -40,4 +40,4 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 | 09:30 - 10:30| Hands-on exercises              | [Presentation](source/Presentations/Hands-on_exercise.pdf) / [Hands-on exercises](Excercise_SVEPM.html)|
 | 10:30 - 11:00| <span style="color:blue"> Coffee break text</span> ||
 | 11:00 - 11:30| Advanced ABN modelling|[Presentation](source/Presentations/gk_advance.pdf) / [Hands-on exercises](Excercise_advances.html)|
-| 11:30 - 12:00| Wrap-up and discussions | |
+| 11:30 - 12:00| Wrap-up and discussions | [Presentation](source/Presentations/Discussion.pdf) |
