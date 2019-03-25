@@ -32,11 +32,11 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 
 # Schedule
 
-| Time         | Topic                          | Slides | R code |
-|--------------|--------------------------------|--------|--------|
-| 8:00 - 8:30  | Bayesian Networks in a Nutshel |        |        |
-|              |                                |        |        |
-|              |                                |        |        |
+| Time         | Topic                          | Material|
+|--------------|--------------------------------|---------|
+| 09:00 - 09:10| Welcome & info                 |         |
+| 09:10 - 09:30| Bayesian Network in a Nutshell | [get](source/Presentations/gk_intro.pdf)|
+|              |                                |        |
 
 
 
