@@ -1,7 +1,7 @@
 
 The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](https://cran.r-project.org/package=abn) is part of the Conference and annual general meeting (AGM) of the Society for Veterinary Epidemiology and Preventive Medicine ([SVEPM2019](http://svepm2019.org)) from March 27-29th, 2019 in Utrecht (Netherlands).
 
-## General information
+# General information
 
 **When:** March the 29th 2019
 
@@ -23,12 +23,13 @@ variables. The focus is on structure discovery, that means determining an optima
 model directly from observed data, allowing all variables to be potentially mutually
 dependent.
 
-## Learning outcomes
+# Learning outcomes
+
 - To understand the basic theory behind structure discovery and Additive Bayesian
-Networks
-- To learn how to set up and interpret an additive Bayesian network model for
+Networks modelling
+- To learn how to set up and interpret an Additive Bayesian Network model for
 multivariate analysis of animal health data using the R package [abn](https://cran.r-project.org/package=abn)
-- To 
+- To consider possible synergies with other R package such as [mcmcabn](https://cran.r-project.org/package=mcmcabn) for further analysis
 
 # Schedule
 
@@ -40,7 +41,3 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 | 10:30 - 11:00| <span style="color:blue"> Coffee break text</span> ||
 | 11:00 - 11:30| Advances in ABN modelling|[Presentation](source/Presentations/gk_advance.pdf) / [Hands-on exercises](Excercise_advances.html)|
 | 11:30 - 12:00| Wrap-up and discussions | |
-
-
-# Resources
-
