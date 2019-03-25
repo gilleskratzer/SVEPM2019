@@ -36,7 +36,7 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 |--------------|--------------------------------|---------|
 | 09:00 - 09:10| Welcome & info                 |         |
 | 09:10 - 09:30| Bayesian Network in a Nutshell | [get](source/Presentations/gk_intro.pdf)|
-|              |                                |        |
+| 09:30 - 10:30| Hands-on exercise              | [Hands-on excercies](Excercise_advances.html)|
 
 
 
