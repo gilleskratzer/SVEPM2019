@@ -34,10 +34,10 @@ multivariate analysis of animal health data using the R package [abn](https://cr
 
 | Time         | Topic                          | Material|
 |--------------|--------------------------------|---------|
-| 09:00 - 09:10| Welcome & info                 |         |
-| 09:10 - 09:30| Bayesian Network in a Nutshell | [get](source/Presentations/gk_intro.pdf)|
-| 09:30 - 10:30| Hands-on exercises              | [Hands-on exercises](Excercise_advances.html)|
-| 10:30 - 11:00| Coffee break||
+| 09:00 - 09:10| Welcome & info                 | [Presentation](source/Presentations/Workshop_schedule.pdf)|
+| 09:10 - 09:30| Bayesian Network in a Nutshell | [Presentation](source/Presentations/gk_intro.pdf)|
+| 09:30 - 10:30| Hands-on exercises              | [Presentation](source/Presentations/Hands-on_exercise.pdf) [Hands-on exercises](Excercise_SVEPM.html)|
+| 10:30 - 11:00| <span style="color:blue"> Coffee break text</span> ||
 | 11:00 - 11:15| Advances in ABN modelling|[get](source/Presentations/gk_advance.pdf)|
 | 11:15 - 11:30| Hands-on exercises | [Hands-on exercises](Excercise_advances.html)|
 | 11:30 - 12:00| Wrap-up and discussions | |
