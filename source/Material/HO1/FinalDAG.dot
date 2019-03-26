@@ -1,0 +1,33 @@
+digraph dag { 
+
+# change type of font
+# -----------------------
+graph [fontname = "arial"];
+node [fontname = "arial"];
+edge [fontname = "arial"];
+
+# change square to rectagle, add labels, color coding
+# -----------------------------------------------------------
+"AR"[shape=rectangle, style=filled, fillcolor=grey90];
+"pneumS"[shape=rectangle, style=filled, fillcolor=grey90];
+"female"[shape=rectangle, style=filled, fillcolor=grey10, fontcolor=white];
+"livdam"[shape=rectangle];
+"eggs"[shape=rectangle];
+"wormCount"[shape=diamond,  label=" worm \n count "];
+"age"[shape=oval, style=filled, fillcolor=grey10, fontcolor=white];
+"adg"[shape=oval, style=filled, fillcolor=grey10, fontcolor=white];
+
+
+# add stle and thickness of arrows
+# -------------------------------------
+"AR"->"wormCount"[penwidth=2.82];
+"female"->"age"[penwidth=0.19];
+"eggs"->"livdam"[penwidth=0.4];
+"eggs"->"wormCount"[penwidth=4.07];
+"age"->"AR"[penwidth=0.89];
+"age"->"wormCount"[style=dashed, penwidth=4.34];
+"age"->"adg"[style=dashed, penwidth=3.9];
+"adg"->"eggs"[penwidth=1.28];
+"adg"->"wormCount"[style=dashed, penwidth=3.76];
+
+}
