@@ -1,9 +1,9 @@
 
-The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](https://cran.r-project.org/package=abn) is part of the Conference and annual general meeting (AGM) of the Society for Veterinary Epidemiology and Preventive Medicine ([SVEPM2019](http://svepm2019.org)) from March 27-29th, 2019 in Utrecht (Netherlands).
+The SVEPM workshop on Multivariate analysis using [Additive Bayesian Networks](https://cran.r-project.org/package=abn) is part of the Conference and annual general meeting (AGM) of the Society for Veterinary Epidemiology and Preventive Medicine ([SVEPM2019](http://svepm2019.org)) from March 27-29th, 2019 in Utrecht (the Netherlands).
 
 # General information
 
-**When:** March the 29th 2019
+**When:** March the 27th 2019
 
 **Where:** Utrecht the Netherlands
 
